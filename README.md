@@ -1,4 +1,4 @@
-🏭 Manufacturing Downtime – Data Analysis & Forecasting
+🛫 AIRLINE PASSENGER SATISFACTION – Data Analysis & Forecasting
 
 📂 Project Structure
 
@@ -18,11 +18,11 @@
 - Final report & presentation  
 
 📌 Project Description
-This project focuses on analyzing and forecasting **manufacturing downtime**.  
+This project focuses on analyzing and forecasting **AIRLINE PASSENGER SATISFACTION**.  
 It includes:
 - Data cleaning & preprocessing  
 - Exploratory data analysis  
-- Forecasting downtime events and production batches  
+- Predicting airline passenger satisfaction and travel experience  
 - Visualization dashboard with Power BI / Tableau  
 - Final project report  
 
@@ -34,4 +34,4 @@ It includes:
 
 ## 📂 Project Resources
 
-https://drive.google.com/drive/folders/1cJlTr5gZkxWlEL1et4y79ku5YSyYC2HD
+https://docs.google.com/document/d/13zv-bA_4ISgpKD8rKTaAMyZaDKqSCl6Z6ZxqIAcMAfk/edit?usp=drivesdk
